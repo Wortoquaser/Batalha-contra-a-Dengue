@@ -18,3 +18,5 @@ não deixando-os chegar a direita de sua tela, pois os mesmos vem da esquerda, c
 ele tem apenas 3 vidas para não perder a fase, e durante a fase também é possível verificar o ranking pausando o jogo quando clicado
 no botão. A cada 5 fases tem um boss (chefe) diferente dos anteriores e conta com um total de 10 fases e 2 chefes. Por fim conta também
 com um Quiz que tem 20 perguntas e cada vez que entra neste modo são dadas 10 perguntas aleatórias.
+
+Link para testar o jogo: https://gd.games/guilhermegallinafortes/batalhaadengue
